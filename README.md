@@ -1,0 +1,1 @@
+# studies_java_hexagonal_architecture
